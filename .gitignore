@@ -1,0 +1,4 @@
+__pycache__
+venv
+../../Desktop/.env
+db.sqlite3
