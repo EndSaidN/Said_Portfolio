@@ -129,7 +129,7 @@ section {
     animation-delay: 2s;
 }
 .home.show-animate .home-content .text-animate h3::before {
-    animation: homeCursorText 6s liner infinite;
+    animation: homeCursorText 6s linear infinite;
     animation-delay: 2s;
 }
 .home-content p {
